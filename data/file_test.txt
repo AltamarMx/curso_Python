@@ -1,0 +1,2 @@
+Archivo creado desde python
+Linea de archivo
